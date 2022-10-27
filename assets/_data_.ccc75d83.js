@@ -1,0 +1,1 @@
+import{_ as t}from"./CommandeMontre.vue_vue_type_script_setup_true_lang.3dfd6d80.js";import{d as e,o,l as r}from"./index.c146476a.js";import"./MontreProfil.vue_vue_type_script_setup_true_lang.cf4030ed.js";const _=e({__name:"[data]",props:{data:null},setup(a){return(n,s)=>(o(),r(t,{data:JSON.parse(a.data)},null,8,["data"]))}});export{_ as default};
