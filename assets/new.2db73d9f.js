@@ -1,0 +1,1 @@
+import{_ as e}from"./FormMontre.vue_vue_type_script_setup_true_lang.7ad04978.js";import{d as o,o as t,c as s,e as r}from"./index.7eea98b7.js";import"./MontreProfil.vue_vue_type_script_setup_true_lang.0802bd4f.js";const a={class:"border-0"},d=o({__name:"new",setup(c){return(n,_)=>(t(),s("section",a,[r(e)]))}});export{d as default};
